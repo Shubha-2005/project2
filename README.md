@@ -1,2 +1,2 @@
-#Project 2
+# project2
 we are pushing local repo.
